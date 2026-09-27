@@ -1,0 +1,8 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex">
+<title>Halo Sports · Multisport concept</title>
+<script>
+  // Deep link → the app at /multisport-demo/ with the route in ?p= (index.html restores it).
+  var base = '/multisport-demo/', path = location.pathname;
+  var route = path.indexOf(base) === 0 ? path.slice(base.length - 1) : '/';
+  location.replace(base + '?p=' + encodeURIComponent(route + location.search + location.hash));
+</script></head><body></body></html>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dfeaf3"/><stop offset="1" stop-color="#9fb7cc"/></linearGradient>
+<radialGradient id="l" cx=".3" cy=".2" r=".9"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="675" fill="url(#g)"/>
+<g><path d="M600.0 0V675" stroke="#c8102e" stroke-width="15.0" opacity=".55"/><path d="M360.0 0V675M840.0 0V675" stroke="#1d4f91" stroke-width="13.3" opacity=".45"/><g stroke="#c8102e" stroke-width="5.5" fill="none" opacity=".5"><circle cx="600.0" cy="337.5" r="121.5"/><circle cx="180.0" cy="189.00000000000003" r="87.75"/><circle cx="1020.0" cy="486.0" r="87.75"/></g></g>
+<rect width="1200" height="675" fill="url(#l)"/>
+<g transform="translate(744 122) scale(17.44)" fill="none" stroke="#0e1d2c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".28"><path d="M16 3.5L10 15.8a2 2 0 0 1-1.8 1.2H4.5"/><path d="M8 3.5l6 12.3a2 2 0 0 0 1.8 1.2h3.7"/><rect x="9.2" y="18.6" width="5.6" height="2.2" rx="1.1"/></g>
+</svg>
